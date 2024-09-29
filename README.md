@@ -1,12 +1,33 @@
 ## Sehati Project
 
+Sehati is a mental health application developed in response to the growing concerns around mental well-being, particularly among the youth and professionals. This project aims to enhance user experience and expand its features based on user feedback and internal evaluations.
 
+Background
+In an increasingly digital world, attention to mental health is crucial. Research shows rising levels of stress, anxiety, and depression among individuals. Sehati has been utilized in limited circles and has significantly contributed to helping users manage their mental health. However, feedback indicates the need for improvements, prompting the development of a new version with enhanced features and service quality.
 
+Objectives
+The main objectives of the new version of the Sehati application are:
+  1. Enhance User Experience (UX): Provide a more intuitive and user-friendly interface.
+  2. Add New Features: Introduce comprehensive stress tests, enriched mental health articles, and detailed user profiles.
+  3. Improve User Data Security: Ensure that users' personal data is securely protected.
+  4. Expand User Reach: Increase the application’s usage among a broader audience beyond its current user base.
 
+Expected Benefits
+The anticipated outcomes from the development include:
+  1. Increased User Base: Achieve a 50% increase in active users within the first year post-launch.
+  2. Improved User Satisfaction: Reach a user satisfaction score of at least 4.5 out of 5 in user surveys.
+  3. Multi-Platform Availability: Make the application available on both Android and iOS platforms.
+  4. Partnerships with Health Institutions: Collaborate with at least five health institutions or mental health communities to expand the application’s positive impact.
 
-
-
-
+Product Development
+- Frontend: Developed using HTML, CSS, JavaScript, and Bootstrap.
+- Backend: Built with Laravel and PHP.
+- Database: Managed with PHPMyAdmin and SQL.
+- Key Features:
+   1. Login and Register: User authentication implementation.
+   2. User Profile: View and edit user profiles.
+   3. Articles: Pages for displaying and reading articles.
+   4. Stress Test: Development of questionnaires and logic to evaluate users' stress levels.
 
 
 
